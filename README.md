@@ -2,7 +2,7 @@
 
 <h3>Zendesk Ticket Viewer</h3>
 
-**Requirements>**
+** System Requirements**
 
 1.NodeJs<br/>
 2.NPM<br/>
@@ -13,6 +13,7 @@ This Application was built as part of the zendesk coding challange based on the 
 
 
 Requirements<br/>
+
 
 
 
