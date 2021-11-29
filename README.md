@@ -14,11 +14,11 @@ This Application was built as part of the zendesk coding challange based on the 
 
 **Requirements<br/>**
 
-● Connect to the Zendesk API
-● Request all the tickets for your account
-● Display them in a list
-● Display individual ticket details
-● Page through tickets when more than 25 are returned
+● Connect to the Zendesk API<br/>
+● Request all the tickets for your account<br/>
+● Display them in a list<br/>
+● Display individual ticket details<br/>
+● Page through tickets when more than 25 are returned<br/>
 
 
 
