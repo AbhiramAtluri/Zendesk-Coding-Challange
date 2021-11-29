@@ -28,7 +28,7 @@ In order to set up the application clone this repository to your local machine</
 
 ● Navigate to the zendesk_backend folder and open the command prompt<br/>
 ● Then run the command - "npm install" to install the required node packages<br/>
-● Configure the username,password, URI of your zendesk account in the .env file<br/>
+● Configure the username,password, API End point of your zendesk account in the .env file<br/>
 ● Execute the command - "npm start". This should start the server</br>
 
 **User Interface**</br>
