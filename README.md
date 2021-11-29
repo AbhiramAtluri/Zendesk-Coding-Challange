@@ -36,12 +36,17 @@ In order to set up the application clone this repository to your local machine</
 Once the backend is up and running</br>
 
 ● open the UI folder in this repository</br>
-● open the command prompt and run the commadn "npm install"</br>
+● open the command prompt and execute the command "npm install"</br>
 ● This will install the required packages </br>
-●
-NAME=yourloginid@gmail.com
-PASS=yourpassword
-API_PATH=https://yoururl.zendesk.com
+● Open the command prompt and execute the "npm start"</br>
+●This will start the front end
+
+
+**Note**
+Make sure to configure your username password and api in the .env file
+
+
+
 
 
 
