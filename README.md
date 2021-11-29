@@ -9,6 +9,11 @@
 3.GIT<br/>
 
 **Application overviev**
+This Application was built as part of the zendesk coding challange based on the requirements mentioned below.The server side code has been scripted using NodeJs and the front end has been developed using ReactJs
+
+
+Requirements<br/>
+
 
 
 
