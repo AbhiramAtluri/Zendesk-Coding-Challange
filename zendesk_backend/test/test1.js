@@ -5,7 +5,8 @@ chai.use(require("chai-http"))
 const expect = require("chai").expect;
 const agent = require("chai").request.agent(app)
 let constants = require('../routes/Consts')
-const server =constants.Consts.host
+require('dotenv').config()
+const server =`${process.env.HOST}${process.env.PORT}`
 
 describe("Initial tickets test",function()
 {
