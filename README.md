@@ -55,6 +55,12 @@ URI = https://youruri/api/v2/tickets?</br>
 
 In order to execute backend tests. Kindly execute the command - "npm test" from the command prompt opened in the backend
 
+**Usage Instructions**
+
+Once the applications installed navigate to the URL where the react app is running. By default it runs on http://localhost:3000/ .
+
+Navigate through the tickets using next and previous buttons. Click the tickets to see their individual data.
+
 
 
   
