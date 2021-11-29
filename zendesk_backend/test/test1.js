@@ -16,7 +16,7 @@ describe("Initial tickets test",function()
         .get("/")
         .end(function(err,res)
         {   
-            console.log(res.body)
+          
             assert.exists(res.body.status)
             expect(res.body.status).equals(200)
             done()
