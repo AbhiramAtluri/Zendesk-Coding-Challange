@@ -20,6 +20,22 @@ This Application was built as part of the zendesk coding challange based on the 
 ● Display individual ticket details<br/>
 ● Page through tickets when more than 25 are returned<br/>
 
+In order to the run the application the system requirements mentioned above need to installed.</br>
+
+**Setting up the server**</br>
+
+In order to set up the application clone this repository to your local machine</br>
+
+● Navigate to the zendesk_backend folder and open the command prompt<br/>
+● Then run the command - "npm install" to install the required node packages<br/>
+●
+
+
+
+
+
+
+
 
 
 
