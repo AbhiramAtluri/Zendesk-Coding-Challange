@@ -1,8 +1,8 @@
 # Zendesk-Coding-Challange
 
-**Zendesk Ticket Viewer**
+<h3>Zendesk Ticket Viewer</h3>
 
-**Requirements**
+<h5>Requirements</h5>
 
 1.NodeJs<br/>
 2.NPM<br/>
