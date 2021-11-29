@@ -39,6 +39,9 @@ Once the backend is up and running</br>
 ● open the command prompt and run the commadn "npm install"</br>
 ● This will install the required packages </br>
 ●
+NAME=yourloginid@gmail.com
+PASS=yourpassword
+API_PATH=https://yoururl.zendesk.com
 
 
 
