@@ -42,8 +42,16 @@ Once the backend is up and running</br>
 ●This will start the front end
 
 
-**Note**
-Make sure to configure your username password and api in the .env file
+**Note**</br>
+Make sure to configure your username password and api in the .env file</br>
+Example:-</br>
+
+USERNAME1 = sample@xyz.com</br>
+PASSWORD1 = samplepassword</br>
+URI = https://youruri/api/v2/tickets?</br>
+
+
+
   
 
 
