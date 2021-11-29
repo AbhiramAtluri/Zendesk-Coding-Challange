@@ -20,7 +20,7 @@ This Application was built as part of the zendesk coding challange based on the 
 ● Display individual ticket details<br/>
 ● Page through tickets when more than 25 are returned<br/>
 
-In order to the run the application the system requirements mentioned above need to installed.</br>
+In order to the run the application. The system requirements mentioned above need to installed.</br>
 
 **Setting up the server**</br>
 
