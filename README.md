@@ -51,6 +51,11 @@ PASSWORD1 = samplepassword</br>
 URI = https://youruri/api/v2/tickets?</br>
 
 
+**Tests**</br>
+
+In order to execute backend tests. Kindly execute the command - "npm test" from the command prompt opened in the backend
+
+
 
   
 
