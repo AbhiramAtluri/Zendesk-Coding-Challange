@@ -4,12 +4,13 @@
 
 **Requirements**
 
-Java 8
-Apache Maven 3.6.0
+Java 8 <br/>
+Apache<br/> 
+Maven 3.6.0<br/>
 
 1.NodeJs<br/>
-2.NPM
-3.GIT
+2.NPM<br/>
+3.GIT<br/>
 
 
 
