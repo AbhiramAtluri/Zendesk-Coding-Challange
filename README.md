@@ -44,6 +44,7 @@ Once the backend is up and running</br>
 
 **Note**
 Make sure to configure your username password and api in the .env file
+  
 
 
 
